@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Rishmithabandari
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c
+- 🌱 Programming skills at C, Python, SQL
+- Learning more and getting much better everyday
 
 
 <!---
