@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Rishmithabandari
 - 👀 I’m interested in coding
-- 🌱 Programming skills at C, Python, SQL
+- 🌱 Programming skills at C, Python, Java, SQL
+- My key domain is Artificial Intelligence and Machine Learning
 - Learning more and getting much better everyday
 
 
